@@ -60,4 +60,4 @@ Version, release label and native DLL name live in `project.psd1`. Explorer pins
 
 Packaging uses a source allowlist, four built runtime files and neutral default INIs. It excludes PDBs, machine caches, personal data and Git history. Each ZIP includes a file manifest; the outer checksum file covers both archives.
 
-维护者 / Maintainer: **c_zh**（[@zuiyue52](https://github.com/zuiyue52)）。源码 / Source: [TrayFolders-Public](https://github.com/zuiyue52/TrayFolders-Public).
+维护者 / Maintainer: **c_zh**（[@zuiyue52](https://github.com/zuiyue52)）。源码 / Source: [TrayFolders](https://github.com/zuiyue52/TrayFolders).

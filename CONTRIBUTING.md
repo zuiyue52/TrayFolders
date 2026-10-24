@@ -1,6 +1,6 @@
 # 参与维护 / Contributing
 
-维护者 / Maintainer: **c_zh**（[@zuiyue52](https://github.com/zuiyue52)）。欢迎通过 [问题与建议 / Issues](https://github.com/zuiyue52/TrayFolders-Public/issues/new/choose) 反馈问题，或提交 [Pull Requests](https://github.com/zuiyue52/TrayFolders-Public/pulls)。 / Please use the repository Issues and Pull Requests for reports and contributions.
+维护者 / Maintainer: **c_zh**（[@zuiyue52](https://github.com/zuiyue52)）。欢迎通过 [问题与建议 / Issues](https://github.com/zuiyue52/TrayFolders/issues/new/choose) 反馈问题，或提交 [Pull Requests](https://github.com/zuiyue52/TrayFolders/pulls)。 / Please use the repository Issues and Pull Requests for reports and contributions.
 
 反馈问题请包含：Windows build、架构、组件版本、重现步骤、预期和实际表现、缩放/分辨率，以及去除个人信息后的日志。 / Include OS build, architecture, component version, reproduction steps, expected/actual behavior, scaling/resolution and sanitized logs.
 

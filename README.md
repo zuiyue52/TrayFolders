@@ -8,8 +8,9 @@
 
 拖动归类 · 选择加入 · 名称规则 · 独立运行
 
-[**下载 Windows x64 便携包**](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-win-x64.zip) · [English](README.en.md) · [使用文档](docs/README.md) · [反馈问题](https://github.com/zuiyue52/TrayFolders-Public/issues/new/choose)
- [![版本：0.4.2-preview.1](https://img.shields.io/badge/version-0.4.2--preview.1-orange)](https://github.com/zuiyue52/TrayFolders-Public/releases/tag/v0.4.2-preview.1) [![平台：Windows 11 x64](https://img.shields.io/badge/platform-Windows_11_x64-0078D4)](docs/COMPATIBILITY.md) [![代码许可证：GPL-3.0-only](https://img.shields.io/badge/license-GPL--3.0--only-blue)](LICENSE)
+[**下载 Windows x64 便携包**](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-win-x64.zip) · [English](README.en.md) · [使用文档](docs/README.md) · [反馈问题](https://github.com/zuiyue52/TrayFolders/issues/new/choose)
+
+[![版本：0.4.2-preview.1](https://img.shields.io/badge/version-0.4.2--preview.1-orange)](https://github.com/zuiyue52/TrayFolders/releases/tag/v0.4.2-preview.1) [![平台：Windows 11 x64](https://img.shields.io/badge/platform-Windows_11_x64-0078D4)](docs/COMPATIBILITY.md) [![代码许可证：GPL-3.0-only](https://img.shields.io/badge/license-GPL--3.0--only-blue)](LICENSE)
 
 </div>
 
@@ -19,11 +20,11 @@ TrayFolders 在右下角 **“显示隐藏的图标”** 面板中整理程序�
 
 | 下载内容 | 适合谁 |
 | --- | --- |
-| [**Windows x64 便携包**](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-win-x64.zip) | 直接使用；完整解压后运行 `TrayFolders.exe` |
-| [对应版本源码包](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-source.zip) | 查看源码、修改或自行编译 |
-| [SHA256 校验文件](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/SHA256SUMS.txt) | 校验下载文件的完整性 |
+| [**Windows x64 便携包**](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-win-x64.zip) | 直接使用；完整解压后运行 `TrayFolders.exe` |
+| [对应版本源码包](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-source.zip) | 查看源码、修改或自行编译 |
+| [SHA256 校验文件](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/SHA256SUMS.txt) | 校验下载文件的完整性 |
 
-当前版本：**0.4.2-preview.1（预览版）**。[查看发布说明](https://github.com/zuiyue52/TrayFolders-Public/releases/tag/v0.4.2-preview.1)
+当前版本：**0.4.2-preview.1（预览版）**。[查看发布说明](https://github.com/zuiyue52/TrayFolders/releases/tag/v0.4.2-preview.1)
 
 需要 **Windows 11 x64、.NET Framework 4.8** 和可写目录。首次适配可能需要联网获取微软符号。应用界面为中文，主要使用及开发文档提供中英双语。
 
@@ -70,7 +71,7 @@ TrayFolders 在右下角 **“显示隐藏的图标”** 面板中整理程序�
 | 所有文档 | [文档导航](docs/README.md) |
 | 构建、测试与代码结构 | [开发指南](docs/BUILD.md) |
 | 历次变化 | [版本记录](CHANGELOG.md) |
-| 报告问题、提出建议或贡献代码 | [反馈入口](https://github.com/zuiyue52/TrayFolders-Public/issues/new/choose) · [参与维护](CONTRIBUTING.md) |
+| 报告问题、提出建议或贡献代码 | [反馈入口](https://github.com/zuiyue52/TrayFolders/issues/new/choose) · [参与维护](CONTRIBUTING.md) |
 
 ## 来源与许可证
 

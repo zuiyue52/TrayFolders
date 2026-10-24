@@ -8,8 +8,9 @@
 
 Drag to organize · Select icons · Match names · Run independently
 
-[**Download for Windows x64**](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-win-x64.zip) · [简体中文](README.md) · [Documentation](docs/README.md) · [Report an issue](https://github.com/zuiyue52/TrayFolders-Public/issues/new/choose)
- [![Version: 0.4.2-preview.1](https://img.shields.io/badge/version-0.4.2--preview.1-orange)](https://github.com/zuiyue52/TrayFolders-Public/releases/tag/v0.4.2-preview.1) [![Platform: Windows 11 x64](https://img.shields.io/badge/platform-Windows_11_x64-0078D4)](docs/COMPATIBILITY.md) [![Code license: GPL-3.0-only](https://img.shields.io/badge/license-GPL--3.0--only-blue)](LICENSE)
+[**Download for Windows x64**](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-win-x64.zip) · [简体中文](README.md) · [Documentation](docs/README.md) · [Report an issue](https://github.com/zuiyue52/TrayFolders/issues/new/choose)
+
+[![Version: 0.4.2-preview.1](https://img.shields.io/badge/version-0.4.2--preview.1-orange)](https://github.com/zuiyue52/TrayFolders/releases/tag/v0.4.2-preview.1) [![Platform: Windows 11 x64](https://img.shields.io/badge/platform-Windows_11_x64-0078D4)](docs/COMPATIBILITY.md) [![Code license: GPL-3.0-only](https://img.shields.io/badge/license-GPL--3.0--only-blue)](LICENSE)
 
 </div>
 
@@ -19,11 +20,11 @@ TrayFolders organizes application icons inside **Show hidden icons**, at the rig
 
 | Download | Use |
 | --- | --- |
-| [**Windows x64 portable app**](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-win-x64.zip) | Extract the complete archive and run `TrayFolders.exe` |
-| [Matching source archive](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-source.zip) | Inspect, modify or build the project |
-| [SHA256 checksums](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/SHA256SUMS.txt) | Verify the downloaded files |
+| [**Windows x64 portable app**](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-win-x64.zip) | Extract the complete archive and run `TrayFolders.exe` |
+| [Matching source archive](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-source.zip) | Inspect, modify or build the project |
+| [SHA256 checksums](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/SHA256SUMS.txt) | Verify the downloaded files |
 
-Current version: **0.4.2-preview.1 (preview)**. [Release notes](https://github.com/zuiyue52/TrayFolders-Public/releases/tag/v0.4.2-preview.1)
+Current version: **0.4.2-preview.1 (preview)**. [Release notes](https://github.com/zuiyue52/TrayFolders/releases/tag/v0.4.2-preview.1)
 
 Requires **Windows 11 x64, .NET Framework 4.8** and a writable application folder. Initial preparation may download Microsoft symbols. The application UI is Chinese; main usage and development documentation is bilingual.
 
@@ -70,7 +71,7 @@ See [compatibility and DLL troubleshooting](docs/COMPATIBILITY.md) for tested an
 | All documentation | [Documentation index](docs/README.md) |
 | Building, testing and architecture | [Development guide](docs/BUILD.md) |
 | Changes by version | [Changelog](CHANGELOG.md) |
-| Bug reports, suggestions and contributions | [Feedback](https://github.com/zuiyue52/TrayFolders-Public/issues/new/choose) · [Contributing](CONTRIBUTING.md) |
+| Bug reports, suggestions and contributions | [Feedback](https://github.com/zuiyue52/TrayFolders/issues/new/choose) · [Contributing](CONTRIBUTING.md) |
 
 ## Origins and license
 

@@ -6,9 +6,9 @@
 
 | File | Contents |
 | --- | --- |
-| [TrayFolders-0.4.2-preview.1-win-x64.zip](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-win-x64.zip) | Complete portable application |
-| [TrayFolders-0.4.2-preview.1-source.zip](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-source.zip) | Corresponding source, tests, build scripts and vendored code |
-| [SHA256SUMS.txt](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/SHA256SUMS.txt) | SHA256 hashes for both archives |
+| [TrayFolders-0.4.2-preview.1-win-x64.zip](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-win-x64.zip) | Complete portable application |
+| [TrayFolders-0.4.2-preview.1-source.zip](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-source.zip) | Corresponding source, tests, build scripts and vendored code |
+| [SHA256SUMS.txt](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/SHA256SUMS.txt) | SHA256 hashes for both archives |
 
 Requires **Windows 11 x64, .NET Framework 4.8** and a writable application folder. Initial preparation may need access to Microsoft's symbol server. The UI is currently Chinese; main documentation is bilingual. ARM64, 32-bit systems and Windows 10 are outside this preview's scope.
 

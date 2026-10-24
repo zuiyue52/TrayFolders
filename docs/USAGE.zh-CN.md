@@ -6,9 +6,9 @@
 
 | 文件 | 用途 |
 | --- | --- |
-| [TrayFolders-0.4.2-preview.1-win-x64.zip](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-win-x64.zip) | 完整便携包，解压后运行 |
-| [TrayFolders-0.4.2-preview.1-source.zip](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-source.zip) | 对应源码、测试、构建脚本和第三方源码 |
-| [SHA256SUMS.txt](https://github.com/zuiyue52/TrayFolders-Public/releases/download/v0.4.2-preview.1/SHA256SUMS.txt) | 两个 ZIP 的 SHA256 校验值 |
+| [TrayFolders-0.4.2-preview.1-win-x64.zip](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-win-x64.zip) | 完整便携包，解压后运行 |
+| [TrayFolders-0.4.2-preview.1-source.zip](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/TrayFolders-0.4.2-preview.1-source.zip) | 对应源码、测试、构建脚本和第三方源码 |
+| [SHA256SUMS.txt](https://github.com/zuiyue52/TrayFolders/releases/download/v0.4.2-preview.1/SHA256SUMS.txt) | 两个 ZIP 的 SHA256 校验值 |
 
 需要 **Windows 11 x64、.NET Framework 4.8** 和可写的程序目录。首次适配可能需要访问微软符号服务器。当前应用界面为中文，主要文档提供中英双语。ARM64、32 位系统和 Windows 10 不在本预览版支持范围内。
 

@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        请先查看[兼容性与常见问题](https://github.com/zuiyue52/TrayFolders-Public/blob/main/docs/COMPATIBILITY.md)。
+        请先查看[兼容性与常见问题](https://github.com/zuiyue52/TrayFolders/blob/main/docs/COMPATIBILITY.md)。
         Please check the compatibility guide first. Remove personal paths, icon names or tooltip text you do not want to publish.
   - type: input
     id: app_version
