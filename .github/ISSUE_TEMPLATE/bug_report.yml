@@ -1,0 +1,55 @@
+name: "问题反馈 / Bug report"
+description: "报告分组、拖动、启动或显示问题 / Report grouping, drag, startup or layout problems."
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请先查看[兼容性与常见问题](https://github.com/zuiyue52/TrayFolders-Public/blob/main/docs/COMPATIBILITY.md)。
+        Please check the compatibility guide first. Remove personal paths, icon names or tooltip text you do not want to publish.
+  - type: input
+    id: app_version
+    attributes:
+      label: "应用版本 / App version"
+      placeholder: "例如 / e.g. 0.4.2-preview.1"
+    validations:
+      required: true
+  - type: input
+    id: windows_version
+    attributes:
+      label: "Windows 版本与架构 / Windows build and architecture"
+      description: "可运行 winver 查看系统 build / Run winver to find the build."
+      placeholder: "Windows 11, build ..., x64"
+    validations:
+      required: true
+  - type: input
+    id: component
+    attributes:
+      label: "托盘组件 / Tray component"
+      description: "如能找到，请填写“系统适配”页显示的 DLL 名称及版本 / If available, copy the DLL name and version from the compatibility page."
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: "重现步骤 / Steps to reproduce"
+      placeholder: |
+        1.
+        2.
+    validations:
+      required: true
+  - type: textarea
+    id: expected_actual
+    attributes:
+      label: "预期与实际结果 / Expected and actual behavior"
+    validations:
+      required: true
+  - type: input
+    id: display
+    attributes:
+      label: "分辨率与缩放 / Resolution and scaling"
+      description: "显示问题请注明多屏、远程桌面等情况 / For layout issues, mention multiple displays or Remote Desktop."
+      placeholder: "1920 × 1080, 125%"
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: "适配日志或补充说明 / Compatibility log or other details"
+      description: "仅提供与问题有关的信息，提交前删除私人内容 / Share only relevant details and remove private information."

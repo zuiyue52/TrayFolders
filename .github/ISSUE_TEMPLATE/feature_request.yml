@@ -1,0 +1,22 @@
+name: "功能建议 / Feature request"
+description: "描述希望改善的使用场景 / Suggest an improvement."
+title: "[Feature] "
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: "使用场景 / Use case"
+      description: "现在遇到了什么不便？ / What is difficult in the current workflow?"
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: "期望的改进 / Proposed improvement"
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: "补充信息 / Additional context"
+      description: "可选示例、替代方案或参考 / Optional examples, alternatives or references."

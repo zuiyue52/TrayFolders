@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "使用文档 / Documentation"
+    url: "https://github.com/zuiyue52/TrayFolders-Public/blob/main/docs/README.md"
+    about: "先查看使用方法和常见问题 / Read the user guides and FAQ."
