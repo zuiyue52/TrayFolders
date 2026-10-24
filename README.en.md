@@ -16,6 +16,16 @@ Drag to organize · Select icons · Match names · Run independently
 
 TrayFolders organizes application icons inside **Show hidden icons**, at the right of the Windows taskbar. Create a folder, then drag icons into it, select them from the inventory, or match their names. The application runs independently of Windhawk.
 
+## Grouping in action
+
+| Ungrouped: individual icons | Grouped: a folder previews its members |
+| :---: | :---: |
+| <img src="docs/images/tray-ungrouped.png" width="293" alt="Windows hidden-icons flyout before grouping, with separate WeChat, ChatGPT and Everything icons"> | <img src="docs/images/tray-grouped.png" width="293" alt="Windows hidden-icons flyout after grouping; the folder at the bottom left previews WeChat, ChatGPT and Everything"> |
+
+**The folder is at the bottom left of the right-hand image**, with miniature WeChat, ChatGPT and Everything icons. Click a folder to open its members, or drop another icon onto it to add it.
+
+*These are real screenshots from early testing, taken at different times. App counts, themes and the application icon may differ from the current version. The red box in the right-hand image marks the application icon used at that time.*
+
 ## Download
 
 | Download | Use |

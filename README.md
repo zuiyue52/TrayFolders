@@ -16,6 +16,16 @@
 
 TrayFolders 在右下角 **“显示隐藏的图标”** 面板中整理程序图标。新建文件夹后，可以直接拖入图标，也可以从名单选择或填写匹配规则。程序独立运行，无需安装 Windhawk。
 
+## 收纳效果
+
+| 未分组：图标逐个排列 | 收纳后：文件夹显示成员预览 |
+| :---: | :---: |
+| <img src="docs/images/tray-ungrouped.png" width="293" alt="未分组的 Windows 隐藏图标面板，微信、ChatGPT 和 Everything 等图标单独排列"> | <img src="docs/images/tray-grouped.png" width="293" alt="收纳后的 Windows 隐藏图标面板，左下角文件夹预览微信、ChatGPT 和 Everything 三个成员图标"> |
+
+**右图左下角就是收纳后的文件夹**，可看到微信、ChatGPT 和 Everything 的缩略图标。点击文件夹可展开成员；把其他图标拖到文件夹上即可加入。
+
+*以上为早期实机测试截图，拍摄时间不同，应用数量、主题和程序图标可能与当前版本不同。右图红框是当时的程序图标标记。*
+
 ## 下载
 
 | 下载内容 | 适合谁 |
