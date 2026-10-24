@@ -1,0 +1,7 @@
+build/
+release/
+dist/
+*.lnk
+
+# Generated archive manifest; each release contains its own copy.
+/manifest.sha256
